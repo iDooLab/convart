@@ -1,0 +1,2 @@
+[27-May-2016 13:28:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/look2us/public_html/demowp/wp-content/themes/Divi/functions.php:98) in /home4/look2us/public_html/demowp/wp-includes/option.php on line 823
+[27-May-2016 13:28:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/look2us/public_html/demowp/wp-content/themes/Divi/functions.php:98) in /home4/look2us/public_html/demowp/wp-includes/option.php on line 824
